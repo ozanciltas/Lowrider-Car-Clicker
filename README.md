@@ -1,64 +1,64 @@
 # Lowrider Car Clicker
 
-**Lowrider Car Clicker**, düşük rölanti süresine sahip clicker oyunlarının dinamiğini, lowrider kültürünün zıplama hareketleriyle birleştiren eğlenceli bir oyun. Kazandığınız paraları kullanarak aracınızı geliştirin, mini oyunlarda hünerlerinizi sergileyin ve garajınızda arabanızı kişiselleştirin!
+**Lowrider Car Clicker** is a fun game that combines the mechanics of low-rider culture with clicker gameplay. Use the money you earn to upgrade your car, showcase your skills in mini-games, and customize your car in the garage!
 
-## Oyun Özeti
+## Game Overview
 
-Ana ekran, clicker mekaniklerini temel alırken, oyun içindeki mini oyunlar ve garaj özelleştirmeleriyle derinlik kazandırılmıştır. Hem stratejik kazanç sistemlerini hem de eğlenceli yarışları bir arada sunar.
+The main screen is based on clicker mechanics, while mini-games and garage customization options add depth to the game. It offers both strategic earning systems and fun racing challenges.
 
-### Temel Mekanikler  
+### Core Mechanics
 
-1. **Lowride Zıplama:**  
-   - Ana ekranda yer alan araba her zıplama yaptığında para kazandırır.  
-   - Zıplama hızını ve zıplama başına kazanılan parayı artırmak için geliştirmeler yapılabilir.  
+1. **Lowride Jumping:**  
+   - The car on the main screen earns money every time it jumps.  
+   - You can upgrade to increase the jump speed and the amount of money earned per jump.  
 
-2. **Offline Gelir:**  
-   - Oyuncular, oyuna her giriş yaptıklarında, son girişten bu yana geçen süreye göre otomatik olarak gelir elde eder.  
-   - Offline geliri artırmak için yükseltmeler yapılabilir.  
+2. **Offline Earnings:**  
+   - Players earn automatic income based on the time passed since their last login.  
+   - Upgrades can be made to increase offline earnings.  
 
-3. **Geliştirme Seçenekleri:**  
-   - Kazanılan parayı artırma.  
-   - Zıplama hızını artırma.  
-   - Offline kazanç oranını artırma.  
+3. **Upgrade Options:**  
+   - Increase the money earned.  
+   - Speed up the jumping rate.  
+   - Boost offline earnings.
 
 ---
 
-### Mini Oyunlar  
+### Mini Games
 
-Lowrider Car Clicker, zıplama mekaniklerinin yanı sıra eğlenceli mini oyunlar sunar:  
+Lowrider Car Clicker offers several fun mini-games in addition to the jumping mechanics:
 
 1. **Simon Says:**  
-   - Arabanın yaptığı zıplama hareketlerini (soldan zıplama, arkadan zıplama, komple zıplama) takip edin ve aynı şekilde tekrar ederek puan kazanın.  
+   - Follow the car's jumping movements and repeat them to earn points.  
 
-2. **Lowride Yarışı:**  
-   - Rakip lowrider'larla "ön yükseltme" yarışında yarışın ve kazanan siz olun!  
+2. **Lowride Race:**  
+   - Compete in an "upward lift" race against other lowriders and try to win!  
 
-3. **Dans Modu:**  
-   - Quick time event'lerde ekrana gelen yön tuşlarına zamanında basarak arabanızı dans ettirin.  
-
----
-
-### Garaj  
-
-Garaj, lowrider'ınızı özelleştirmeniz ve geliştirmeniz için geniş seçenekler sunar:  
-- **Tekerlek Değişimi:** Aracınıza farklı bir görünüm kazandırın.  
-- **Çıkartmalar:** Aracınıza kişisel dokunuşlar ekleyin.  
-- **Renk Değişimi:** Farklı renklerle stilinizi yansıtın.  
-- **Performans Geliştirmeleri:**  
-  - Zıplama yüksekliğini artırın.  
-  - Zıplama gücünü güçlendirin.  
+3. **Dance Mode:**  
+   - Press the directional keys in time with the quick-time events to make your car dance.  
 
 ---
 
-## Teknik Detaylar  
+### Garage
 
-- **Oyun Motoru:** Unity  
-- **Programlama Dili:** C#  
-- **Oyun Türü:** Clicker ve casual mekaniklerin bir arada sunulduğu bir oyun.  
+The garage offers a variety of options to customize and enhance your lowrider:  
+- **Wheel Change:** Give your car a new look.  
+- **Stickers:** Add personal touches to your car.  
+- **Color Change:** Reflect your style with different colors.  
+- **Performance Enhancements:**  
+  - Increase jump height.  
+  - Boost jump power.  
 
 ---
 
-## Ekran Görüntüleri
+## 🔧 Technical Details  
+
+- **Game Engine:** Unity  
+- **Programming Language:** C#  
+- **Game Type:** A game that combines clicker and casual mechanics.
+
+---
+
+## 🖼️ Screenshots
 
 ![clicker menu](https://github.com/user-attachments/assets/8bb27b8a-ca9a-48d6-bfde-723de817f55f)    
 
