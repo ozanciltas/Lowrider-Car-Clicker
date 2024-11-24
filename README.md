@@ -7,6 +7,12 @@ NOTE: I cannot share the source code because the paid assets included in the sou
 
 The main screen is based on clicker mechanics, while mini-games and garage customization options add depth to the game. It offers both strategic earning systems and fun racing challenges.
 
+![clicker menu](https://github.com/user-attachments/assets/8bb27b8a-ca9a-48d6-bfde-723de817f55f)    
+
+https://github.com/user-attachments/assets/d5730af3-ea14-4957-961c-a809c2510702
+
+---
+
 ### Core Mechanics
 
 1. **Lowride Jumping:**  
@@ -57,13 +63,7 @@ The garage offers a variety of options to customize and enhance your lowrider:
 - **Programming Language:** C#  
 - **Game Type:** A game that combines clicker and casual mechanics.
 
----
 
-## 🖼️ Screenshots
-
-![clicker menu](https://github.com/user-attachments/assets/8bb27b8a-ca9a-48d6-bfde-723de817f55f)    
-
-https://github.com/user-attachments/assets/d5730af3-ea14-4957-961c-a809c2510702
 
 
 
