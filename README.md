@@ -1,3 +1,4 @@
+NOTE: I cannot share the source code because the paid assets included in the source code.
 # Lowrider Car Clicker
 
 **Lowrider Car Clicker** is a fun game that combines the mechanics of low-rider culture with clicker gameplay. Use the money you earn to upgrade your car, showcase your skills in mini-games, and customize your car in the garage!
